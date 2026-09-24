@@ -1,2 +1,2 @@
 # amazon-frontpage
-Educational project based onb html and css
+Educational project based on html and css
